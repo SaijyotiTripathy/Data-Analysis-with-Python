@@ -12,3 +12,4 @@ https://www.youtube.com/watch?v=r-uOLxNrNk8
 - <a href="https://github.com/SaijyotiTripathy/Data-Analysis-with-Python/blob/main/Sales_data_analysis.ipynb"> Data Analysis Example </a>
 - <a href="https://github.com/SaijyotiTripathy/Data-Analysis-with-Python/blob/main/Pandas_intro.ipynb"> Introduction to Pandas </a>
 - <a href="https://github.com/SaijyotiTripathy/Data-Analysis-with-Python/blob/main/Pandas_DataFrame.ipynb"> Pandas DataFrame </a>
+- <a href="https://github.com/SaijyotiTripathy/Data-Analysis-with-Python/blob/main/Pandas_Reading_CSV_and_Plotting.ipynb"> Pandas Reading CSV and Plotting </a>
